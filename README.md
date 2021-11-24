@@ -18,5 +18,8 @@
 - Execute o seguinte comando:
     - php -S localhost:8080
 - Abra a url e um navegador de sua referência :)
+- Utilize as seguites credenciais para realizar o login:
+    - email: admin@admin.com
+    - senha: admin
 
 
